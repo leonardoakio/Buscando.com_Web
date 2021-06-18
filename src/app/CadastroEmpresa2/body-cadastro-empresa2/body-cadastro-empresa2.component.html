@@ -1,0 +1,35 @@
+<div class="container">
+  <div class="col-12">
+    <div class="box">
+      <div class="row">
+        <div class="col-12 ">
+          <p class="titulo" >Descrição da vaga</p>
+        </div>
+      </div>
+      <p></p>
+      <form>
+      <p class="campos fontText">*Campos obrigatórios</p>
+      <p><input class="form-control" type="text" placeholder="*Função"></p>
+      <p><input class="form-control" type="text" placeholder="*Carga Horária"></p>
+      <p><input class="form-control" type="text" placeholder="Salário Oferecido"></p>
+
+      <div class="form-group fontText" >
+        <label for="exampleFormControlTextarea1">Benefícios</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Vale-refeição, Vale-transporte, Plano de Saúde"></textarea>
+      </div>
+        <div class="form-group fontText">
+          <label for="exampleFormControlTextarea1">Requisitos da Vaga</label>
+          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Ex.: Conhecimento mínimo intermediário em Java"></textarea>
+        </div>
+        <div class="form-group fontText">
+          <label for="exampleFormControlTextarea1">Responsabilidades</label>
+          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Ex.: Analisar sistemas e gerenciamento de banco de dados"></textarea>
+        </div>
+      </form>
+
+      <div class="text-center">
+        <button type="button" class="btn btn-primary button" (click)="finalizarVaga()">Finalizar Vaga</button>
+      </div>
+    </div>
+  </div>
+</div>

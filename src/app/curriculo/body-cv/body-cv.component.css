@@ -1,0 +1,82 @@
+.userimage{
+  margin-top: 70px;
+  width: 200px;
+}
+
+.main{
+  margin-top: 70px;
+  padding-left: 80px;
+  font-size: 50px;
+  color: #C3293B;
+}
+
+.nome{
+  font-size: 25px;
+  color: black;
+}
+.redeSociais{
+  font-size: 25px;
+  color: black;
+}
+.email{
+  font-size: 25px;
+  color: black;
+}
+.endereco{
+  font-size: 25px;
+  color: black;
+}
+
+.idade{
+  margin-top: 90px;
+  font-size: 25px;
+  color: black;
+}
+
+.telefone{
+  font-size: 25px;
+  color: black;
+}
+
+.linha {
+
+  width: 80%;
+  border-bottom: 3px solid #7B7F83;
+  margin-left: 9%;
+  margin-top: 7%;
+}
+
+.titulo{
+  font-size: 50px;
+  color: #C3293B;
+}
+.botaoImpressao{
+  margin-top: 50px;
+  margin-left: 140px;
+  color: black;
+  background-color: #FFFFFF;
+  border-color: black;
+  border-width: 1px;
+}
+.titulos{
+  font-size: 30px;
+  color: #002E3B;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.subTitulos{
+  font-size: 25px;
+  color: black;
+  margin-left: 30px;
+}
+
+.deficiencia{
+  font-size: 25px;
+  color: black;
+}
+
+.check{
+  font-size: 18px;
+  color: black;
+}

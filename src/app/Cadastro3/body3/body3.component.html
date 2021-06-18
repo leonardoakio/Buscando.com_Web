@@ -1,0 +1,30 @@
+<div class="container">
+  <div class="col-12">
+    <div class="box">
+      <div class="row">
+        <div class="col-12 ">
+          <p class="titulo" >Pessoa com Deficiência (PcD):</p>
+        </div>
+      </div>
+      <p></p>
+      <label class="fontText">Você possui alguma deficiência?</label>
+      <p></p>
+      <div class="form-check form-check-inline fontText">
+        <input class="form-check-input checkButton" type="radio" id="inlineRadio1" value="opcao1">
+        <label class="form-check-label" for="inlineRadio1">Sim</label>
+      </div>
+      <div class="form-check form-check-inline fontText">
+        <input class="form-check-input checkButton" type="radio" id="inlineRadio2" value="opcao2">
+        <label class="form-check-label" for="inlineRadio2">Não</label>
+      </div>
+
+
+
+      <p><label class="fontText">Se sim, qual?</label></p>
+      <p><input class="form-control" type="text"></p>
+      <label class="fontText">Observações:</label>
+      <p><input class="form-control" type="text"></p>
+
+      <div class="text-center">
+        <button type="button" class="btn btn-primary button" (click)="finalizarCadastro()">Finalizar Currículo</button>
+      </div>

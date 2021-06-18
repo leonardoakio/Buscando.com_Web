@@ -1,0 +1,25 @@
+.cidades{
+  color: #C3293B;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 50px;
+}
+
+.buscar{
+  color: #7B7F83;
+  font-size: 30px;
+}
+
+.linha {
+  width: 100%;
+  border-bottom: 2px solid #7B7F83;
+  margin-left: 5%;
+  margin-top: 7%;
+}
+
+.linha2{
+  width: 100%;
+  border-bottom: 2px solid #7B7F83;
+  margin-right: 7%;
+  margin-top: 7%;
+}

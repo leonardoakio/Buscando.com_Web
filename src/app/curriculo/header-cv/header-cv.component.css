@@ -1,0 +1,53 @@
+.image {
+  text-align: center;
+  padding-top: 25px;
+}
+
+.logo{
+  padding-top: 40px;
+  padding-left: 35px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+
+
+  line-height: 40px;
+  align-items: center;
+  color: #E61C20;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);
+}
+
+.user{
+  font-size: 20px;
+  color: #7B7F83;
+  margin-bottom: 10px;
+}
+
+.username{
+  font-size: 20px;
+}
+
+.primary{
+  margin-top: 90px;
+  margin-left: 13px;
+}
+.second {
+  margin-top: 91px;
+}
+
+.barraHeader{
+  width: 1200px;
+  height: 33px;
+  background: #C3293B;
+}
+
+.anunciarVaga{
+  color: #FFFFFF;
+}
+
+.registerCv {
+  color: #FFFFFF;
+}
+.vagas{
+  color: #FFFFFF;
+}

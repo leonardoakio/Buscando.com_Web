@@ -1,0 +1,23 @@
+.barraEmpresas{
+  width: 1200px;
+  height: 41px;
+  background: #C3293B;
+}
+
+.empresasConosco{
+  color: #FFFFFF;
+  font-size: 30px;
+  padding-left: 340px;
+}
+
+.microsoft{
+  margin-left: 70px;
+}
+
+.google{
+  margin-left: 70px;
+}
+
+.oracle{
+  margin-left: 70px;
+}

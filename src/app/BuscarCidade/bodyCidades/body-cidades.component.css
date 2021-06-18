@@ -1,0 +1,26 @@
+.box{
+  padding: 20px 50px 60px 50px;
+  background-color: #EFEFEF;
+}
+.titulo{
+  font-size: 30px;
+  color:#C3293B;
+}
+
+.fontText{
+  font-size: 30px;
+}
+
+.button{
+  background: #002E3B;
+  border-radius: 10px;
+  font-size: 30px;
+  padding: 0 30px;
+}
+
+.button2{
+  background: #C3293B;
+  border-radius: 10px;
+  font-size: 30px;
+  padding: 0 30px;
+}
